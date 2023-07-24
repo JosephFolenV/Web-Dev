@@ -13,7 +13,13 @@ p {
   font-size: 20px;
 }
 
-#id-selector-demo
+/* #id-selector-demo
+{
+  color: green;
+} */
+
+/*This format works for any attribute*/
+li[id="id-selector-demo"]
 {
   color: green;
 }

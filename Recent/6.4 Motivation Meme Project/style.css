@@ -1,0 +1,23 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: 'Baskervville', serif;
+}
+
+img {
+    border: 5px solid white;
+}
+
+p {
+    color: white;
+}
+
+div {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
